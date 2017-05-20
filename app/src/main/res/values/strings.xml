@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">P05-NDP Songs ~ Show Song</string>
+    <string-array name="year_array">
+    </string-array>
 </resources>
